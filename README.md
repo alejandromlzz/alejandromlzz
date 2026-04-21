@@ -51,4 +51,10 @@
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
 
+## ⚙️ &nbsp;GitHub Analytics
+
+[![](https://github-readme-stats.vercel.app/api?username=alejandromlzz&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/alejandromlzz)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=alejandromlzz&theme=material-palenight)](https://github.com/alejandromlzz)
+</div>
+
 
